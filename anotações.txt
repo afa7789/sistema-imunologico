@@ -33,4 +33,5 @@ dmax = maior,melhor de todo mundo, d é os valores do índividuo.
 tem q plotar por cima :(
 o gŕafico de minimo medio e maximo serve para o monomodal.
 
+https://stackoverflow.com/questions/24707441/plot-points-over-contour-matplotlib-python
 
